@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🔭 I’m currently working as Software Engineer.
-- <img src="https://img.icons8.com/material-outlined/24/000000/instagram-new--v1.png"/>
+<!-- <img src="https://img.icons8.com/material-outlined/24/000000/instagram-new--v1.png"/> -->
 
 <!-- **vigneshroman/vigneshroman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
